@@ -1,0 +1,21 @@
+body {
+    background-color: wheat;
+}
+
+.title {
+    height: 100px;
+    color: white;
+    line-height: 100px;
+}
+
+.Tableau {
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(131, 123, 125);
+    font-weight: bold;
+
+}
+
+.Lists {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(196, 200, 66)
+}
